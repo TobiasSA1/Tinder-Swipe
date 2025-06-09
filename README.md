@@ -20,3 +20,6 @@ Este proyecto simula el comportamiento de "swipe" estilo Tinder utilizando **HTM
 - JavaScript Vanilla (manipulación DOM, eventos, lógica de swipe)
 
 ---
+## 🌐 Demo en vivo
+
+👉 [Ver proyecto en GitHub Pages](https://tobiassa1.github.io/Tinder-Swipe/)
